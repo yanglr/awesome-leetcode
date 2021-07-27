@@ -2,6 +2,19 @@
 
 **Awesome LeetCode**: 一个优质的 LeetCode 开源项目和资源的精选集。
 
+---
+
+[![Travis](https://img.shields.io/badge/language-C++-green.svg)]()
+[![Travis](https://img.shields.io/badge/language-Python-red.svg)]()
+[![Travis](https://img.shields.io/badge/language-Java-blue.svg)]()
+[![Travis](https://img.shields.io/badge/language-Go-red.svg)]()
+[![Travis](https://img.shields.io/badge/language-JavaScript-yellow.svg)]()
+
+[![](https://img.shields.io/badge/Zhihu-知乎-blue)](https://www.zhihu.com/people/legege007)
+[![](https://img.shields.io/badge/bilili-哔哩哔哩-ff69b4)](https://space.bilibili.com/1443957)
+
+简体中文 | [English](../README.md)
+
 ## 🚀快速上手
 
 
