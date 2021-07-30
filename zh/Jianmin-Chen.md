@@ -36,7 +36,7 @@ From <https://www.youtube.com/watch?v=VlTq_sHDiE4>
 
  
 
-[jianminchen](https://github.com/jianminchen)/[Leetcode_C-](https://github.com/jianminchen/Leetcode_C-)
+[jianminchen](https://github.com/jianminchen)/[Leetcode_C-](https://github.com/jianminchen/Leetcode_C-) (C#版)
 
 From <https://github.com/jianminchen/Leetcode_C->
 
