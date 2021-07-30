@@ -6,7 +6,7 @@
 
  
 
-How do you memorize over 100 hard level algorithms on http://leetcode.com by name in less than one week? -  Jianmin Chen
+How do you memorize over 100 hard level algorithms on <http://leetcode.com> by name in less than one week? -  Jianmin Chen
 
 From <https://www.quora.com/How-do-you-memorize-over-100-hard-level-algorithms-on-http-leetcode-com-by-name-in-less-than-one-week>
 
